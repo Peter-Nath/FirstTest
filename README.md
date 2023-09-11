@@ -1,3 +1,3 @@
 #The two tokens contract address
-TokenA = 
-TokenB =
+TokenA = 0x3894147dE02d88569ee4a6ADc8A6C1f5fF35031C
+TokenB = 0xb8A9f70ed3EAa5E3f5877962A7866be1165B1507
